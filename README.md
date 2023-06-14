@@ -1,4 +1,4 @@
-# openspp_genie
+# OpenSPP Genie
 
 ## About
 
